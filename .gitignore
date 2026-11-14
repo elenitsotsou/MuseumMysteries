@@ -1,0 +1,17 @@
+# Πακέτα Node (τα κατεβάζει ο καθένας με npm install)
+node_modules/
+
+# Κωδικοί και κλειδιά (π.χ. Europeana API key, κωδικός βάσης)
+.env
+
+# Αρχεία καταγραφής
+*.log
+npm-debug.log*
+
+# Αρχεία συστήματος
+.DS_Store
+Thumbs.db
+
+# Ρυθμίσεις editor
+.vscode/
+.idea/
