@@ -2,7 +2,7 @@
 
 ## Μέλη ομάδας
 
-| Όνομα | GitHub | ΑΜ 
+| Όνομα | GitHub | ΑΜ |
 |---|---|---|---|
 | Ελένη Τσότσου | [@elenitsotsou](https://github.com/elenitsotsou) | 32/2026
 | Αργυρώ Παπαστεργίου| [@PapastergiouA](https://github.com/PapastergiouA) | 25/2026
