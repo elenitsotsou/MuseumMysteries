@@ -6,7 +6,7 @@
 |---|---|---|
 | Ελένη Τσότσου | [@elenitsotsou](https://github.com/elenitsotsou) | 32/2026
 | Αργυρώ Παπαστεργίου| [@PapastergiouA](https://github.com/PapastergiouA) | 25/2026
-| Αγγελική | |
+| Αγγελική |  [@aggelikiman1](https://github.com/aggelikiman1) | 19/2026
 | Κατερίνα | |
 | Δήμητρα | [@Dkritsimi](https://github.com/Dkritsimi) | 16/2026 |
 | Ευσταθία | |
