@@ -9,14 +9,14 @@
 | Αγγελική |  [@aggelikiman1](https://github.com/aggelikiman1) | 19/2026
 | Κατερίνα | [@aikaterinikoutouvou](https://github.com/aikaterinikoutouvou) | 15/2026
 | Δήμητρα | [@Dkritsimi](https://github.com/Dkritsimi) | 16/2026 |
-| Ευσταθία | [@Emakra](https://github.com/Emakra) | 18/2026
+| Ευσταθία | |
 
 
 
 
 
 
-## Ρόλοι ομάδας (Scrum) 
+## Ρόλοι ομάδας (Scrum) ΜΗΝ ΣΥΜΠΛΗΡΩΣΕΤΕ ΕΔΩ ΑΥΤΑ ΘΑ ΤΑ ΚΑΝΟΥΜΕ ΣΤΗΝ ΚΛΗΣΗ
 
 - **Product Owner:** οι διδάσκοντες του μαθήματος
 - **Scrum Master / Project Manager:** Ελένη Τσότσου
@@ -24,9 +24,9 @@
 
 | Μέλος | Υποσύστημα | Ρόλος |
 |---|---|---|
-| Ελένη Τσότσου | Game engine, Deployment | Project Manager, Developer |
-| Αργυρώ | Editor σεναρίων | Developer |
+| Ελένη Τσότσου |  | Project Manager |
+| Αργυρώ |  |  |
 | Κατερίνα | Europeana & αντικείμενα, Βάση δεδομένων | Database Developer |
-| Άγγελα | UX & εμφάνιση  | UX Designer, Frontend Developer |
-| Δήμητρα | Κοινότητα & REST API | Backend Developer |
-| Ευσταθία | Χρήστες & τάξεις| Developer |
+| Άγγελική |  |  |
+| Δήμητρα | | |
+| Ευσταθία |  |  |
