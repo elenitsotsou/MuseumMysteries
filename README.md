@@ -24,9 +24,9 @@
 
 | Μέλος | Υποσύστημα | Ρόλος |
 |---|---|---|
-| Ελένη Τσότσου | Game engine | Project Manager |
-| Αργυρώ |  Editor σεναρίων | Developer |
+| Ελένη Τσότσου | Game engine, Deployment | Project Manager, Developer |
+| Αργυρώ | Editor σεναρίων | Developer |
 | Κατερίνα | Europeana & αντικείμενα, Βάση δεδομένων | Database Developer |
-| Αγγελική | UX, εμφάνιση & deployment |  |
-| Δήμητρα | Κοινότητα & δικό μας API | |
-| Ευσταθία | Χρήστες & τάξεις |  |
+| Άγγελα | UX & εμφάνιση  | UX Designer, Frontend Developer |
+| Δήμητρα | Κοινότητα & REST API | Backend Developer |
+| Ευσταθία | Χρήστες & τάξεις| Developer |
