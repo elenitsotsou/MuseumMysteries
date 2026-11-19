@@ -9,7 +9,7 @@
 | Αγγελική |  [@aggelikiman1](https://github.com/aggelikiman1) | 19/2026
 | Κατερίνα | [@aikaterinikoutouvou](https://github.com/aikaterinikoutouvou) | 15/2026
 | Δήμητρα | [@Dkritsimi](https://github.com/Dkritsimi) | 16/2026 |
-| Ευσταθία | |
+| Ευσταθία | [@Emakra](https://github.com/Emakra) | 18/2026
 
 
 
