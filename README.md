@@ -27,6 +27,6 @@
 | Ελένη Τσότσου | Game engine | Project Manager |
 | Αργυρώ |  Editor σεναρίων |  |
 | Κατερίνα | Europeana & αντικείμενα, Βάση δεδομένων | Database Developer |
-| Άγγελα | UX, εμφάνιση & deployment |  |
+| Αγγελική | UX, εμφάνιση & deployment |  |
 | Δήμητρα | Κοινότητα & δικό μας API | |
 | Ευσταθία | Χρήστες & τάξεις |  |
